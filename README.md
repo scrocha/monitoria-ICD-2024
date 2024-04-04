@@ -1,5 +1,5 @@
 # Monitoria de Introdução à Ciência de Dados 2024.1
-Repositório para a Monitoria da disciplina de Introdução à Ciência de Dados 2024.1
+Repositório para a Monitoria da disciplina de Introdução à Ciência de Dados 2024.1, aqui teremos um tutorial básico de html e css.
 
 ### Monitor
 - [Sillas Rocha da Costa](https://www.github.com/scrocha)
