@@ -51,5 +51,5 @@ Repositório para a Monitoria da disciplina de Introdução à Ciência de Dados
 ### Inserção de links e imagens
 
 Usaremos `<a> </a>` e `<img> </img>` para inserir links e imagens, respectivamente, em nosso html.
-
+Entretanto, para usarmos corretamente estes elementos, é preciso adicionar atributos a eles, no caso do link, deveremos passar o seu `href`, e da imagem, o seu `src`, em conjunto com o `width` e `height` caso necessário para ajustar o tamanho da imagem.
 
