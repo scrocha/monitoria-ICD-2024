@@ -5,6 +5,12 @@ Repositório para a Monitoria da disciplina de Introdução à Ciência de Dados
 ### Monitor
 - [Sillas Rocha da Costa](https://www.github.com/scrocha)
 
+## Referências
+
+- [Curso de HTML do W3 Schools](https://www.w3schools.com/html/)
+- [Bom conteúdo introdutório de HTML e CSS](https://marksheet.io/)
+- [Documentação de HTML e CSS](https://developer.mozilla.org/pt-BR/)
+
 ## HTML Básico
 
 O HTML (HyperText Markup Language) é a linguagem padrão para a criação de páginas da web. É composto por uma série de elementos que definem a estrutura e o conteúdo de uma página web.
