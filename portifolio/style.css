@@ -25,6 +25,7 @@ p {
 }
 
 /* Selecionando tanto o elemento nav qunato o com a classe nav-links */
+
 nav,
 .nav-links {
     display: flex;
@@ -36,6 +37,75 @@ nav {
     align-items: center;
     height: 2.5cm;
 }
+
+/* Lista de navegação */
+.nav-links {
+    list-style: none;
+    font-size: 1.5rem;
+    gap: 2rem;
+}
+
+/* Itens de Navegação */
+a {
+    color: black;
+    text-decoration: none;
+    text-decoration-color: white;
+}
+
+/* Brincando com o mouse passando em cima */
+a:hover {
+    color: gray;
+    text-decoration: underline;
+    text-underline-offset: .4cm;
+    text-decoration-color: black;
+
+}
+
+.logo {
+    font-size: 2rem;
+}
+
+.logo:hover {
+    cursor: default;
+}
+
+/* Cima, Direita, Baixo, Esquerda */
+section {
+    padding-top: 4vh;
+    height: 96vh;
+    margin: 0 10rem;
+    box-sizing: border-box;
+    min-height: fit-content;
+}
+
+.section-container {
+    display: flex;
+}
+
+#profile {
+    display: flex;
+    justify-content: center;
+    gap: 5rem;
+    height: 80vh;
+}
+
+.section__pic-container {
+    display: flex;
+    height: 400px;
+    width: 400px;
+    margin: auto 0;
+}
+
+.section__pic-container img {
+    border-radius: 50%;
+}
+
+
+.section__text {
+    align-self: center;
+    text-align: center;
+}
+
 
 
 
