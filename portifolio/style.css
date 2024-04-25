@@ -1,0 +1,41 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+
+
+
+
+/* Definindo margem e espaçamento para 0 em todos os elementos */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Aplicar a fonte a todos os elementos */
+body {
+    font-family: "Poppins", sans-serif;
+}
+
+/* Fazer a página deslizar suavemente */
+html {
+    scroll-behavior: smooth;
+}
+
+p {
+    color: gray;
+}
+
+/* Selecionando tanto o elemento nav qunato o com a classe nav-links */
+nav,
+.nav-links {
+    display: flex;
+}
+
+/* Define o alinhamento e como os itens de navegação ficam */
+nav {
+    justify-content: space-around;
+    align-items: center;
+    height: 2.5cm;
+}
+
+
+
