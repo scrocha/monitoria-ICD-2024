@@ -11,6 +11,12 @@ Repositório para a Monitoria da disciplina de Introdução à Ciência de Dados
 - [Bom conteúdo introdutório de HTML e CSS](https://marksheet.io/)
 - [Documentação de HTML e CSS](https://developer.mozilla.org/pt-BR/)
 
+## Extensões do VSCode úteis
+
+- [Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server) (Atualização em tempo readl do HTML)
+- [Auto Complete Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-complete-tag) (Fechamento automático de tags)
+- [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight) (Exibição de cores na linha de código)
+
 ## HTML Básico
 
 O HTML (HyperText Markup Language) é a linguagem padrão para a criação de páginas da web. É composto por uma série de elementos que definem a estrutura e o conteúdo de uma página web.
